@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Assignment 5 Trick or Treat/Bag.h
+Candy.h
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Assignment 5 Trick or Treat/Candy.h
+
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Assignment 5 Trick or Treat/Candy.h
+
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Assignment 5 Trick or Treat/main.c
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+time.h
+-
+stdlib.h
+-
+Candy.h
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Assignment 5 Trick or Treat/Candy.h
+Bag.h
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Assignment 5 Trick or Treat/Bag.h
+

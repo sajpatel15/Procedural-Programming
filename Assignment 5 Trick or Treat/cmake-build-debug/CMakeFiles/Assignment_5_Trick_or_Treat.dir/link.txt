@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Assignment_5_Trick_or_Treat.dir/main.c.o CMakeFiles/Assignment_5_Trick_or_Treat.dir/Candy.c.o CMakeFiles/Assignment_5_Trick_or_Treat.dir/Bag.c.o  -o Assignment_5_Trick_or_Treat.exe -Wl,--out-implib,libAssignment_5_Trick_or_Treat.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
