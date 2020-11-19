@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Lab 6 making 2D arrays with malloc/main.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+

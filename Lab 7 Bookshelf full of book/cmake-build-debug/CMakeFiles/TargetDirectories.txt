@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Lab 7 Bookshelf full of book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Lab 7 Bookshelf full of book/cmake-build-debug/CMakeFiles/Lab_7_Bookshelf_full_of_book.dir
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Lab 7 Bookshelf full of book/cmake-build-debug/CMakeFiles/edit_cache.dir
