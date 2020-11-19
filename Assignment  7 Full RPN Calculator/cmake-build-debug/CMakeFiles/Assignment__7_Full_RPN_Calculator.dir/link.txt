@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Assignment__7_Full_RPN_Calculator.dir/main.c.o CMakeFiles/Assignment__7_Full_RPN_Calculator.dir/RPN_linked_list.c.o  -o Assignment__7_Full_RPN_Calculator.exe -Wl,--out-implib,libAssignment__7_Full_RPN_Calculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Assignment  3 ISBN validator/main.c
+stdio.h
+-
+ctype.h
+-
+string.h
+-
+
