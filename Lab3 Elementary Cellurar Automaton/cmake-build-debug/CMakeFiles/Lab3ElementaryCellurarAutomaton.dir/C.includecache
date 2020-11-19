@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/Lab3 Elementary Cellurar Automaton/main.c
+stdio.h
+-
+stdbool.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Lab3ElementaryCellurarAutomaton.dir/main.c.o  -o Lab3ElementaryCellurarAutomaton.exe -Wl,--out-implib,libLab3ElementaryCellurarAutomaton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
