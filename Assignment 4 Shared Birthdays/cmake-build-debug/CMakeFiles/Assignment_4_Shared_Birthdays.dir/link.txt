@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Assignment_4_Shared_Birthdays.dir/main.c.o  -o Assignment_4_Shared_Birthdays.exe -Wl,--out-implib,libAssignment_4_Shared_Birthdays.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
