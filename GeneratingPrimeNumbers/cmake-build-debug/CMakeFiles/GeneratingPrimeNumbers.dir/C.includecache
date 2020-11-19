@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Saj Patel/Desktop/procedual programming/GeneratingPrimeNumbers/main.c
+stdio.h
+-
+math.h
+-
+
